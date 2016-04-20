@@ -1,0 +1,355 @@
+ComputerName, LocalGroupName, Status, MemberType, MemberDomain, MemberName
+172.17.9.12, Administrators, SUCCESS, DomainUser, THANEFILESRV, shivaji
+172.17.9.12, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.9.12, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.9.12, Administrators, SUCCESS, DomainGroup, INDIA, VOIP Team
+172.17.9.12, Administrators, SUCCESS, DomainGroup, INDIA, Unix Team
+172.17.9.12, Administrators, SUCCESS, DomainUser, INDIA, 538733
+172.17.9.12, Administrators, SUCCESS, DomainUser, INDIA, 343607
+172.17.9.12, Administrators, SUCCESS, DomainGroup, INDIA, Network Team
+172.17.10.12, Administrators, SUCCESS, DomainUser, CDCFILESERVER, Shivaji
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, ADMINMUMTDC
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.10.12, Administrators, SUCCESS, DomainUser, INDIA, 198641
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, corporate server admin grp
+172.17.10.12, Administrators, SUCCESS, DomainUser, INDIA, 535963
+172.17.170.165, Administrators, SUCCESS, DomainUser, CDCARISPRO01, shivaji
+172.17.170.165, Administrators, SUCCESS, DomainGroup, ULTIMATIX, Domain Admins
+172.17.170.165, Administrators, SUCCESS, DomainUser, CDCARISPRO01, arisadmin
+172.17.170.165, Administrators, SUCCESS, DomainGroup, ULTIMATIX, gUXCDC_Operations
+172.17.170.165, Administrators, SUCCESS, DomainGroup, ULTIMATIX, gUXCDC_Admins
+172.17.170.165, Administrators, SUCCESS, DomainUser, ULTIMATIX, su.arisadmin
+172.17.170.165, Administrators, SUCCESS, DomainUser, ULTIMATIX, au.238231
+172.17.170.165, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-789336058-1604221776-725345543-584026
+172.17.10.12, Administrators, SUCCESS, DomainUser, CDCFILESERVER, Shivaji
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, ADMINMUMTDC
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.10.12, Administrators, SUCCESS, DomainUser, INDIA, 198641
+172.17.10.12, Administrators, SUCCESS, DomainGroup, INDIA, corporate server admin grp
+172.17.10.12, Administrators, SUCCESS, DomainUser, INDIA, 535963
+172.17.9.67, Administrators, SUCCESS, DomainUser, CDCINMUMT02, shivaji
+172.17.9.67, Administrators, SUCCESS, DomainUser, CDCINMUMT02, imadmin
+172.17.9.67, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.9.67, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.9.67, Administrators, SUCCESS, DomainGroup, INDIA, gINCorpColl
+172.17.250.70, Administrators, SUCCESS, DomainUser, CDCPTMSTCRFAPP1, shivaji
+172.17.250.70, Administrators, SUCCESS, DomainUser, CDCPTMSTCRFAPP1, appadmin
+172.17.250.70, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.70, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.70, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.250.70, Administrators, SUCCESS, DomainUser, INDIA, 533113
+172.17.250.70, Administrators, SUCCESS, DomainUser, INDIA, 326097
+172.17.250.70, Administrators, SUCCESS, DomainUser, INDIA, 353163
+172.17.250.70, Administrators, SUCCESS, DomainUser, INDIA, 237192
+192.168.107.201, Administrators, SUCCESS, DomainUser, CDCPVCDB, shivaji
+192.168.107.201, Administrators, SUCCESS, DomainGroup, ULTIMATIX, gUXCDC_Windows
+192.168.107.201, Administrators, SUCCESS, DomainGroup, ULTIMATIX, Domain Admins
+192.168.107.201, Administrators, SUCCESS, DomainUser, ULTIMATIX, sa.vmcenterser
+192.168.107.201, Administrators, SUCCESS, DomainUser, ULTIMATIX, ux.594988
+172.17.170.83, Administrators, SUCCESS, DomainUser, CDCQPORTALDB, shivaji
+172.17.170.83, Administrators, SUCCESS, DomainUser, CDCQPORTALDB, qportaladmin
+172.17.170.83, Administrators, SUCCESS, DomainGroup, ULTIMATIX, Domain Admins
+172.17.170.83, Administrators, SUCCESS, DomainGroup, ULTIMATIX, gUXCDC_Admins
+172.17.170.83, Administrators, SUCCESS, DomainGroup, ULTIMATIX, gUXCDC_Operations
+172.17.10.6, Administrators, SUCCESS, DomainUser, CDCRINXGRS, shivaji
+172.17.10.6, Administrators, SUCCESS, DomainUser, CDCRINXGRS, grsuser
+172.17.10.6, Administrators, SUCCESS, DomainUser, CDCRINXGRS, rinxuser
+172.17.10.6, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.10.6, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.10.6, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.7, Administrators, SUCCESS, DomainUser, CDCSCVMMTEST1, hypervadmin
+172.17.14.7, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.14.7, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.7, Administrators, SUCCESS, DomainUser, INDIA, sa.dcvmmadmin
+172.17.14.7, Administrators, SUCCESS, DomainUser, CDCSCVMMTEST1, terminator
+172.17.14.7, Administrators, SUCCESS, DomainUser, INDIA, Sa.dcsqladmin
+172.17.14.7, Administrators, SUCCESS, DomainUser, INDIA, CDCSCVMMTEST1$
+172.17.14.7, Administrators, SUCCESS, DomainUser, INDIA, sa.dcvmmuser
+172.17.14.7, Administrators, SUCCESS, DomainUser, INDIA, 547055
+172.17.14.7, Administrators, SUCCESS, DomainUser, CDCSCVMMTEST1, shivaji
+172.17.242.6, Administrators, SUCCESS, DomainUser, CDCT2FA2, shivaji
+172.17.242.6, Administrators, SUCCESS, DomainUser, INDIA, 154352
+172.17.242.6, Administrators, SUCCESS, DomainUser, INDIA, 713465
+172.17.242.6, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.242.6, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.242.6, Administrators, SUCCESS, DomainUser, CDCT2FA2, appadmin
+172.17.242.6, Administrators, SUCCESS, DomainUser, INDIA, 969012
+172.17.242.6, Administrators, SUCCESS, DomainUser, INDIA, 556604
+172.17.242.6, Administrators, SUCCESS, DomainUser, INDIA, sa.inmumtdcrsaotp
+172.17.242.51,,FailedToQuery
+172.17.11.248, Administrators, SUCCESS, DomainUser, CDCTADRAP, Administrator
+172.17.11.248, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.11.248, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.11.248, Administrators, SUCCESS, DomainUser, CDCTADRAP, shivaji
+172.17.11.212,,FailedToQuery
+172.17.11.15, Administrators, SUCCESS, DomainUser, CDCTAGPM01, shivaji
+172.17.11.15, Administrators, SUCCESS, DomainUser, CDCTAGPM01, adsadmin
+172.17.11.15, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.11.15, Administrators, SUCCESS, DomainUser, INDIA, sa04.opsmgract
+172.17.11.15, Administrators, SUCCESS, DomainUser, INDIA, sa09.agpmact
+172.17.11.15, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.11.15, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.11.15, Administrators, SUCCESS, DomainUser, INDIA, 542037
+172.17.181.78,,FailedToQuery
+172.17.181.70,,FailedToQuery
+172.17.8.84, Administrators, SUCCESS, DomainUser, CDCTAVPRIVGUARD, shivaji
+172.17.8.84, Administrators, SUCCESS, DomainUser, CDCTAVPRIVGUARD, adsadmin
+172.17.8.84, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.8.84, Administrators, SUCCESS, DomainUser, INDIA, sa04.opsmgract
+172.17.8.84, Administrators, SUCCESS, DomainUser, INDIA, 343609
+172.17.8.84, Administrators, SUCCESS, DomainUser, INDIA, 541356
+172.17.8.84, Administrators, SUCCESS, DomainUser, INDIA, 542037
+172.17.8.84, Administrators, SUCCESS, DomainUser, INDIA, sa01.inmumprivgrd
+172.17.250.114, Administrators, SUCCESS, DomainUser, CDCTBDAAPPW02, shivaji
+172.17.250.114, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.114, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.114, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.250.114, Administrators, SUCCESS, DomainUser, INDIA, 369650
+172.17.250.114, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-1801674531-1177238915-682003330-586997
+172.17.250.114, Administrators, SUCCESS, DomainUser, CDCTBDAAPPW02, bdaadmin
+172.17.250.114, Administrators, SUCCESS, DomainUser, CDCTBDAAPPW02, appadmin
+172.17.250.115, Administrators, SUCCESS, DomainUser, CDCTBDADBWIN02, shivaji
+172.17.250.115, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.115, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.115, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.250.115, Administrators, SUCCESS, DomainUser, INDIA, 369650
+172.17.250.115, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-1801674531-1177238915-682003330-586997
+172.17.250.115, Administrators, SUCCESS, DomainUser, CDCTBDADBWIN02, appadmin
+172.17.250.113, Administrators, SUCCESS, DomainUser, CDCTBDAPPW01, shivaji
+172.17.250.113, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.113, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.113, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.250.113, Administrators, SUCCESS, DomainUser, INDIA, 369650
+172.17.250.113, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-1801674531-1177238915-682003330-586997
+172.17.250.113, Administrators, SUCCESS, DomainUser, CDCTBDAPPW01, bdaadmin
+172.17.250.113, Administrators, SUCCESS, DomainUser, CDCTBDAPPW01, appadmin
+172.17.243.64, Administrators, SUCCESS, DomainUser, CDCTBDAWEBWN01, shivaji
+172.17.243.64, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.243.64, Administrators, SUCCESS, DomainUser, CDCTBDAWEBWN01, bdaadmin
+172.17.243.64, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.243.64, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.243.64, Administrators, SUCCESS, DomainUser, INDIA, 369650
+172.17.243.64, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-1801674531-1177238915-682003330-586997
+172.17.243.64, Administrators, SUCCESS, DomainUser, CDCTBDAWEBWN01, appadmin
+172.17.243.65, Administrators, SUCCESS, DomainUser, CDCTBDAWEBWN02, shivaji
+172.17.243.65, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.243.65, Administrators, SUCCESS, DomainUser, CDCTBDAWEBWN02, bdaadmin
+172.17.243.65, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.243.65, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.243.65, Administrators, SUCCESS, DomainUser, INDIA, 369650
+172.17.243.65, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-1801674531-1177238915-682003330-586997
+172.17.243.65, Administrators, SUCCESS, DomainUser, CDCTBDAWEBWN02, appadmin
+172.17.253.86, Administrators, SUCCESS, DomainUser, CDCTBMSLOG, shivaji
+172.17.253.86, Administrators, SUCCESS, DomainUser, CDCTBMSLOG, bmsadmin
+172.17.253.86, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.253.86, Administrators, SUCCESS, DomainUser, INDIA, 188579
+172.17.253.86, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.253.86, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.253.86, Administrators, SUCCESS, DomainUser, INDIA, 484465
+172.17.253.86, Administrators, SUCCESS, DomainUser, INDIA, 538845
+172.17.253.86, Administrators, SUCCESS, DomainGroup, INDIA, GlobalDCISTeam
+172.17.253.83, Administrators, SUCCESS, DomainUser, CDCTBMSLOG02, shivaji
+172.17.253.83, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.253.83, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.253.83, Administrators, SUCCESS, DomainUser, INDIA, 538845
+172.17.253.83, Administrators, SUCCESS, DomainUser, INDIA, 484465
+172.17.253.83, Administrators, SUCCESS, DomainUser, INDIA, 188579
+172.17.253.83, Administrators, SUCCESS, DomainUser, CDCTBMSLOG02, bmsadmin
+172.17.10.100, Administrators, SUCCESS, DomainUser, CDCTBPSDT, shivaji
+172.17.10.100, Administrators, SUCCESS, DomainUser, CDCTBPSDT, lenovo
+172.17.10.100, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.10.100, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.10.100, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.10.100, Administrators, SUCCESS, DomainUser, INDIA, 253279
+172.17.10.100, Administrators, SUCCESS, DomainUser, INDIA, 480575
+172.17.12.183, Administrators, SUCCESS, DomainUser, CDCTCCSAPP, shivaji
+172.17.12.183, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.12.183, Administrators, SUCCESS, DomainUser, INDIA, 566143
+172.17.12.183, Administrators, SUCCESS, DomainUser, INDIA, 384132
+172.17.12.183, Administrators, SUCCESS, DomainUser, INDIA, sa01.inmumtdcccs
+172.17.12.183, Administrators, SUCCESS, DomainUser, INDIA, 679338
+172.17.12.183, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.12.183, Administrators, SUCCESS, DomainUser, INDIA, 688704
+172.17.12.183, Administrators, SUCCESS, DomainUser, INDIA, 922814
+172.17.12.184, Administrators, SUCCESS, DomainUser, CDCTCCSDB, shivaji
+172.17.12.184, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.12.184, Administrators, SUCCESS, DomainUser, INDIA, 566143
+172.17.12.184, Administrators, SUCCESS, DomainUser, INDIA, 384132
+172.17.12.184, Administrators, SUCCESS, DomainUser, INDIA, sa01.inmumtdcccs
+172.17.12.184, Administrators, SUCCESS, DomainUser, INDIA, 679388
+172.17.12.184, Administrators, SUCCESS, DomainUser, INDIA, 535963
+172.17.12.184, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.8.215, Administrators, SUCCESS, DomainUser, CDCTCENLOG01, shivaji
+172.17.8.215, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.8.215, Administrators, SUCCESS, DomainGroup, INDIA, ADMINMUMTDC
+172.17.8.215, Administrators, SUCCESS, DomainGroup, INDIA, L1_Admin
+172.17.8.215, Administrators, SUCCESS, DomainGroup, INDIA, SCCM_Admin
+172.17.8.215, Administrators, SUCCESS, DomainGroup, INDIA, gIN-UltimatixL1
+172.17.8.215, Administrators, SUCCESS, DomainUser, INDIA, 538845
+172.17.8.215, Administrators, SUCCESS, DomainUser, INDIA, 537668
+172.17.8.215, Administrators, SUCCESS, DomainUser, INDIA, 188579
+172.17.8.215, Administrators, SUCCESS, DomainUser, INDIA, sa.dhcp
+172.22.5.65, Administrators, SUCCESS, DomainUser, CDCTCISCOCALBIL, shivaji
+172.22.5.65, Administrators, SUCCESS, DomainUser, CDCTCISCOCALBIL, voipadmin
+172.22.5.65, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.22.5.65, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.22.5.65, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.22.5.65, Administrators, SUCCESS, DomainUser, CDCTCISCOCALBIL, CiscoHistRprtUsr
+172.17.9.222, Administrators, SUCCESS, DomainUser, CDCTCISCOWRKS01, shivaji
+172.17.9.222, Administrators, SUCCESS, DomainUser, CDCTCISCOWRKS01, ciscoworks
+172.17.9.222, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.9.222, Administrators, SUCCESS, DomainUser, CDCTCISCOWRKS01, casuser
+172.17.9.222, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.9.222, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.9.222, Administrators, SUCCESS, DomainGroup, INDIA, cloudteam
+172.17.9.221, Administrators, SUCCESS, DomainUser, CDCTCISCOWRKS02, shivaji
+172.17.9.221, Administrators, SUCCESS, DomainUser, CDCTCISCOWRKS02, nocadmin
+172.17.9.221, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.9.221, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.9.221, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.9.211,,FailedToQuery
+172.17.8.60, Administrators, SUCCESS, DomainUser, CDCTCM12CAS, cmadmin
+172.17.8.60, Administrators, SUCCESS, DomainUser, CDCTCM12CAS, sccmadm
+172.17.8.60, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.8.60, Administrators, SUCCESS, DomainGroup, INDIA, SCCM_Admin
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, sa_cas_sqlacct
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12CASDB$
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, sa_sccm_patchsync
+172.17.8.60, Administrators, SUCCESS, DomainGroup, APAC, Domain Admins
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, CDCTVMMCENMGMT1$
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, CDCTVMMCENMGMT2$
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, sa_CM12_ClientPush
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, sa04.opsmgract
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12CAS$
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, sa01.scvmmsvc
+172.17.8.60, Administrators, SUCCESS, DomainUser, CDCTCM12CAS, SCCMAdmin
+172.17.8.60, Administrators, SUCCESS, DomainUser, TCS, ea.corpads
+172.17.8.60, Administrators, SUCCESS, DomainGroup, INDIA, uIN-CorpADS
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, CDCTSC12ORC1$
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, 541339
+172.17.8.60, Administrators, SUCCESS, DomainUser, INDIA, 206492
+172.17.8.60, Administrators, SUCCESS, DomainGroup, SOAM, Domain Admins
+172.17.8.61, Administrators, SUCCESS, DomainUser, CDCTCM12CASDB, cmadmin
+172.17.8.61, Administrators, SUCCESS, DomainUser, CDCTCM12CASDB, sccmadm
+172.17.8.61, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.8.61, Administrators, SUCCESS, DomainGroup, INDIA, SCCM_Admin
+172.17.8.61, Administrators, SUCCESS, DomainUser, INDIA, sa_cas_sqlacct
+172.17.8.61, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12CAS$
+172.17.8.61, Administrators, SUCCESS, DomainUser, INDIA, 567564
+172.17.8.61, Administrators, SUCCESS, DomainUser, CDCTCM12CASDB, Storage_Admin
+172.17.8.61, Administrators, SUCCESS, DomainGroup, APAC, Domain Admins
+172.17.8.61, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12IBCM$
+172.17.8.61, Administrators, SUCCESS, DomainUser, INDIA, 322557
+172.17.8.61, Administrators, SUCCESS, DomainUser, INDIA, sa01.osdmig
+172.17.8.61, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.8.61, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-1801674531-1177238915-682003330-1012871
+172.17.8.61, Administrators, SUCCESS, DomainGroup, SOAM, Domain Admins
+172.17.8.62, Administrators, SUCCESS, DomainUser, CDCTCM12IBCM, cmadmin
+172.17.8.62, Administrators, SUCCESS, DomainUser, CDCTCM12IBCM, sccmadm
+172.17.8.62, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.8.62, Administrators, SUCCESS, DomainGroup, INDIA, SCCM_Admin
+172.17.8.62, Administrators, SUCCESS, DomainUser, INDIA, sa_cas_sqlacct
+172.17.8.62, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12CASDB$
+172.17.8.62, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12CAS$
+172.17.8.62, Administrators, SUCCESS, DomainUser, INDIA, 541547
+172.17.8.62, Administrators, SUCCESS, DomainUser, INDIA, sa_sccm_patchsync
+172.17.8.62, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.8.62, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.250.41, Administrators, SUCCESS, DomainUser, CDCTCM12IBCM1, cmadmin
+172.17.250.41, Administrators, SUCCESS, DomainUser, CDCTCM12IBCM1, adsadmin
+172.17.250.41, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.41, Administrators, SUCCESS, DomainGroup, INDIA, SCCM_Admin
+172.17.250.41, Administrators, SUCCESS, DomainUser, INDIA, sa_cas_sqlacct
+172.17.250.41, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12IBCM$
+172.17.250.41, Administrators, SUCCESS, DomainUser, INDIA, CDCTCM12CAS$
+172.17.250.41, Administrators, SUCCESS, DomainUser, INDIA, sa_sccm_patchsync
+172.17.250.41, Administrators, SUCCESS, DomainUser, CDCTCM12IBCM1, Shivaji
+172.17.250.41, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.41, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.13.95, Administrators, SUCCESS, DomainUser, CDCTCMGMT, shivaji
+172.17.13.95, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.13.95, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.13.95, Administrators, SUCCESS, DomainUser, INDIA, 497353
+172.17.13.95, Administrators, SUCCESS, DomainUser, INDIA, 542113
+172.17.13.95, Administrators, SUCCESS, DomainUser, INDIA, 725245
+172.17.13.95, Administrators, SUCCESS, DomainUser, INDIA, 709596
+172.17.250.67, Administrators, SUCCESS, DomainUser, CDCTCMSAPP01, shivaji
+172.17.250.67, Administrators, SUCCESS, DomainUser, CDCTCMSAPP01, appadmin
+172.17.250.67, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.67, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.67, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.250.68, Administrators, SUCCESS, DomainUser, CDCTCMSAPP02, shivaji
+172.17.250.68, Administrators, SUCCESS, DomainUser, CDCTCMSAPP02, appadmin
+172.17.250.68, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.68, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.68, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.250.69, Administrators, SUCCESS, DomainUser, CDCTCMSDB01, shivaji
+172.17.250.69, Administrators, SUCCESS, DomainUser, CDCTCMSDB01, dbadmin
+172.17.250.69, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.250.69, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.250.69, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.243.31, Administrators, SUCCESS, DomainUser, CDCTCMSWEB01, shivaji
+172.17.243.31, Administrators, SUCCESS, DomainUser, CDCTCMSWEB01, webadmin
+172.17.243.31, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.243.31, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.243.31, Administrators, SUCCESS, DomainGroup, INDIA, GlobalDCISTeam
+172.17.243.31, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.243.32, Administrators, SUCCESS, DomainUser, CDCTCMSWEB02, shivaji
+172.17.243.32, Administrators, SUCCESS, DomainUser, CDCTCMSWEB02, webadmin
+172.17.243.32, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.243.32, Administrators, SUCCESS, DomainGroup, INDIA, GlobalDCISTeam
+172.17.243.32, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.11.10, Administrators, SUCCESS, DomainUser, CDCTCOE, shivaji
+172.17.11.10, Administrators, SUCCESS, DomainUser, CDCTCOE, terminator
+172.17.11.10, Administrators, SUCCESS, DomainUser, CDCTCOE, coeadmin
+172.17.11.10, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.11.10, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.11.10, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.11.10, Administrators, SUCCESS, DomainUser, CDCTCOE, BODS
+172.17.14.35, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP1, shivaji
+172.17.14.35, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.14.35, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP1, imadmin
+172.17.14.35, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.35, Administrators, SUCCESS, DomainGroup, INDIA, gINCorpColl
+172.17.14.35, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.14.35, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP1, ccadmin
+172.17.14.36, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP2, shivaji
+172.17.14.36, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.14.36, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP2, imadmin
+172.17.14.36, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.36, Administrators, SUCCESS, DomainGroup, INDIA, gINCorpColl
+172.17.14.36, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.14.36, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP2, ccadmin
+172.17.14.37, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP3, shivaji
+172.17.14.37, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.14.37, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP3, imadmin
+172.17.14.37, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.37, Administrators, SUCCESS, DomainGroup, INDIA, gINCorpColl
+172.17.14.37, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.14.37, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP3, ccadmin
+172.17.14.38, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP4, shivaji
+172.17.14.38, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.14.38, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP4, imadmin
+172.17.14.38, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.38, Administrators, SUCCESS, DomainGroup, INDIA, gINCorpColl
+172.17.14.38, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.14.38, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP4, ccadmin
+172.17.14.39, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP5, shivaji
+172.17.14.39, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.14.39, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP5, imadmin
+172.17.14.39, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.39, Administrators, SUCCESS, DomainGroup, INDIA, gINCorpColl
+172.17.14.39, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.14.39, Administrators, SUCCESS, DomainUser, CDCTCOLBLDAP5, ccadmin
+172.17.14.143, Administrators, SUCCESS, DomainUser, CDCTCOLBSVR1, shivaji
+172.17.14.143, Administrators, SUCCESS, DomainUser, CDCTCOLBSVR1, terminator
+172.17.14.143, Administrators, SUCCESS, DomainUser, CDCTCOLBSVR1, imadmin
+172.17.14.143, Administrators, SUCCESS, DomainGroup, INDIA, Domain Admins
+172.17.14.143, Administrators, SUCCESS, DomainGroup, INDIA, WindowsTeam
+172.17.14.143, Administrators, SUCCESS, DomainGroup, INDIA, gINCorpColl
+172.17.14.143, Administrators, SUCCESS, DomainGroup, INDIA, CDC Operations Team
+172.17.14.143, Administrators, SUCCESS, DomainUser, CDCTCOLBSVR1, ccadmin
